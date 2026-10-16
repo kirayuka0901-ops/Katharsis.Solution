@@ -1,0 +1,65 @@
+{
+    "page": {
+        "sidebar": {
+            "home": "Inicio",
+            "about": "Sobre mi",
+            "music": "Música",
+            "games": "Jueguitos",
+            "proyects": "Proyectos",
+            "contact": "Contacto"
+        },
+        "home": {
+            "greeting": [
+                "Bienvenido a Katastacia's Underground.",
+                "Un espacio personal para código, videojuegos y música.",
+                "Esta página está en construcción. Explora con libertad.",
+                "Aquí encontrarás proyectos, playlists y videojuegos favoritos."
+            ],
+            "links": {
+                "about": "Sobre Mi",
+                "projects": "Proyectos",
+                "contact": "Contacto",
+                "donate": "Donar :3",
+                "my-server": "Discord",
+                "youtube": "Youtube"
+            }
+        },
+        "about": {
+            "title": "Sobre mi",
+            "stats": {
+                "nick": "PseudoN",
+                "level": "Nivel",
+                "hp": "HP",
+                "source": "SRC",
+                "rank": "Rango"
+            },
+            "presentation": "¡Hola! Soy Katastacia, estudiante de programación con interés en el software, los videojuegos y la tecnología.<br><br>Este es mi espacio personal para compartir lo que estoy aprendiendo, los proyectos que desarrollo y las cosas que disfruto fuera del código.<br><br>Puedes editar este texto en src/translations/es.json.",
+            "workspace": {
+                "model": "Modelo",
+                "chip": "Chipset",
+                "system": "Sistema"
+            },
+            "story-01": "Mi Historia Programando"
+        },
+        "music": {
+            "page-title": "Música que me gusta",
+            "title": "Música"
+        },
+        "games": {
+            "title": "Videojuegos que juego"
+        },
+        "projects": {
+            "title": "Proyectos"
+        },
+        "contact": {
+            "title": "Contacto"
+        },
+        "links": {
+            "title": "Links",
+            "youtube": "Mi canal de YouTube",
+            "twitter": "Red social de actualizaciones",
+            "ko-fi": "Página de donaciones",
+            "discord": "Servidor de discord de la comunidad"
+        }
+    }
+}

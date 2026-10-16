@@ -1,0 +1,65 @@
+{
+    "page": {
+        "sidebar": {
+            "home": "Home",
+            "about": "About",
+            "music": "Music",
+            "games": "Games",
+            "proyects": "Projects",
+            "contact": "Contact"
+        },
+        "home": {
+            "greeting": [
+                "Welcome to Katastacia's Underground.",
+                "A personal corner for code, games and music.",
+                "This page is a work in progress. Feel free to explore.",
+                "Projects, playlists and favorite games live here."
+            ],
+            "links": {
+                "about": "About Me",
+                "projects": "Projects",
+                "contact": "Contact",
+                "donate": "Donate :3",
+                "my-server": "Discord",
+                "youtube": "Youtube"
+            }
+        },
+        "about": {
+            "title": "About me",
+            "stats": {
+                "nick": "Nick",
+                "level": "Level",
+                "hp": "HP",
+                "source": "SRC",
+                "rank": "Rank"
+            },
+            "presentation": "Hello! I'm Katastacia, a student programmer interested in software, games and technology.<br><br>This is my personal space to share what I'm learning, the projects I build, and the things I enjoy outside coding.<br><br>This text is yours to edit in src/translations/en.json.",
+            "workspace": {
+                "model": "Model",
+                "chip": "Chipset",
+                "system": "System"
+            },
+            "story-01": "My Programming Story"
+        },
+        "music": {
+            "page-title": "Music I like",
+            "title": "Music"
+        },
+        "games": {
+            "title": "Games I play"
+        },
+        "projects": {
+            "title": "Projects"
+        },
+        "contact": {
+            "title": "Contact"
+        },
+        "links": {
+            "title": "Links",
+            "youtube": "My YouTube channel",
+            "twitter": "Main updates social",
+            "ko-fi": "Donation page",
+            "discord": "Community discord server"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "katastacias-underground",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "vite dev",
+        "build": "vite build",
+        "preview": "vite preview",
+        "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+        "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+        "format": "prettier --write ."
+    },
+    "devDependencies": {
+        "@fontsource/fira-mono": "^5.3.0",
+        "@sveltejs/adapter-vercel": "^6.3.4",
+        "@sveltejs/enhanced-img": "^0.4.4",
+        "@sveltejs/kit": "^2.70.3",
+        "@sveltejs/vite-plugin-svelte": "^4.0.4",
+        "prettier": "^3.9.9",
+        "prettier-plugin-svelte": "^3.5.2",
+        "svelte": "^5.57.1",
+        "svelte-check": "^4.7.6",
+        "typescript": "^5.9.3",
+        "vite": "^5.4.21"
+    },
+    "type": "module",
+    "dependencies": {
+        "svelte-i18n": "^4.0.1"
+    },
+    "trustedDependencies": [
+        "es5-ext"
+    ]
+}
