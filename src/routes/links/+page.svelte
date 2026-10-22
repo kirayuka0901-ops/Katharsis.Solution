@@ -14,13 +14,13 @@
             name={"YouTube"}
             description={$_("page.links.youtube")}
             icon={"YouTube"}
-            link={"https://www.youtube.com/"}
+            link={"https://www.youtube.com/@KirayucaRC"}
         />
         <Link
             name={"Twitter"}
             description={$_("page.links.twitter")}
             icon={"Twitter"}
-            link={"https://x.com/your-username"}
+            link={"https://x.com/KirayukaVT"}
         />
         <Link
             name={"Discord"}
