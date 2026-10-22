@@ -17,11 +17,11 @@
 </script>
 
 <svelte:head>
-    <title>Katastacia's Underground</title>
+    <title>Katharsis Solution</title>
 </svelte:head>
 
 <h1 class="title">
-    <WavyText text="Katastacia's Underground" />
+    <WavyText text="Katharsis Solution" />
 </h1>
 
 <Separator />

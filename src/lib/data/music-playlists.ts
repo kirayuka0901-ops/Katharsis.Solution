@@ -1,12 +1,8 @@
-/**
- * EDIT YOUR SPOTIFY PLAYLISTS HERE
- * Copy a playlist URL from Spotify and paste it into `url`.
- * Example: https://open.spotify.com/playlist/your-playlist-id
- */
+
 export type PlaylistLink = { name: string; description?: string; url: string };
 
 export const playlists: PlaylistLink[] = [
-    { name: "Playlist one", description: "Add a genre or short description", url: "https://open.spotify.com/" },
-    { name: "Playlist two", description: "Another playlist", url: "https://open.spotify.com/" },
-    { name: "Playlist three", description: "Your music, your selection", url: "https://open.spotify.com/" },
+    { name: "Ceremony of Frieren", description: "Dark and Goth Music", url: "https://open.spotify.com/playlist/5nSErfo2x7MftIpOQiiDTz?si=f06026bdc6f9475d" },
+    { name: "Just Drive", description: "Play and Enjoy <3", url: "https://open.spotify.com/playlist/1RH4HsPxUFzMzZJIKVty4z?si=4bfc627445434c48" },
+    { name: "Yo soy darks. Tu no eres darks!", description: "Hola soy darks", url: "https://open.spotify.com/playlist/4dkvY9CIQubNAKg3ySRVaZ?si=fe4a9d9188c74b2f" },
 ];
